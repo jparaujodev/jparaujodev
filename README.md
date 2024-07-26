@@ -7,3 +7,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![jparaujodev GitHub stats](https://github-readme-stats.vercel.app/api?username=jparaujodev&show_icons=true&theme=radical)
+
+Apaixonado por técnologia!
